@@ -1,0 +1,32 @@
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.exe
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.deps.json
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.runtimeconfig.json
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.runtimeconfig.dev.json
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ref\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.pdb
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.csproj.AssemblyReference.cache
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.AssemblyInfo.cs
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ref\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.pdb
+C:\Users\12345\Desktop\Visual Code\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.genruntimeconfig.cache
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.exe
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.deps.json
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.runtimeconfig.json
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.runtimeconfig.dev.json
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ref\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\bin\Debug\net5.0\ConsoleApp.CarsFinalProject.pdb
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.AssemblyInfoInputs.cache
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.AssemblyInfo.cs
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ref\ConsoleApp.CarsFinalProject.dll
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.pdb
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.genruntimeconfig.cache
+C:\Users\12345\Desktop\CarFinalProject\Solution.CarsFinalProject\ConsoleApp.CarsFinalProject\obj\Debug\net5.0\ConsoleApp.CarsFinalProject.csproj.AssemblyReference.cache
